@@ -1,5 +1,5 @@
-## Project 1 creating plots as described in the instructions below. 
-
+## Project 1 
+Creating plots as described in the instructions below. 
 
 
 ## Introduction
